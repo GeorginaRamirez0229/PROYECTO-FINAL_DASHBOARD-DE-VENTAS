@@ -11,12 +11,16 @@ Analizar las ventas totales, el comportamiento por producto, país y año, así 
 🌎 Países: 21  
 
 **El dashboard integra diferentes perspectivas del negocio:**
+
 ***Ventas por Producto***
 Ranking del Top 8 productos más vendidos, identificación los productos con mayor contribución a los ingresos.
+
 ***Ventas por Año***
 Evolución de ventas en los años 1996, 1997 y 1998, donde se observa el análisis de tendencias mensuales.
+
 ***Ventas por País***
 Mapa interactivo con distribución geográfica de ventas, con identificación de mercados clave donde Europa y América destacan como principales regiones de venta.
+
 ***Tiempo de Entrega***
 Comparación del desempeño logístico por año  con clasificación de tiempos de entrega (1, 4, 8, 16, 23 días) que presentan diferencias importantes entre años, lo que puede impactar la satisfacción del cliente
 
